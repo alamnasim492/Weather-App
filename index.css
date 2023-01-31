@@ -50,7 +50,7 @@
         background:  #7c7c7c2b;;
         color: white;
         font-size: 15px;
-        width: 270px;
+        width: 290px;
         font-family: inherit;
         border: 1px solid black;
     }
@@ -81,11 +81,13 @@
             color: white;
             padding: 30px;
             border-radius: 30px;
-            width: 292px;
+            width: 294px;
             margin: 10px;
             /* height: 300px; */
         }  
-        
+        .input{
+           width: 200px;    
+        }
     }
     
     
