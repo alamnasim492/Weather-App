@@ -86,7 +86,8 @@
             /* height: 300px; */
         }  
         .input{
-           width: 200px;    
+           width: 220px;    
+           font-family: inherit;
         }
     }
     
